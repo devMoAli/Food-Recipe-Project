@@ -1,7 +1,7 @@
 # Food-Recipe-Project
 
 ![Food-Recipe-Project](Food-Recipe-Project.gif)
-![Food-Recipe-Project](Food-Recipe-Project-search.gif)
+![Food-Recipe-Project](Food-Recipe-Project-Search.gif)
 
 
 
